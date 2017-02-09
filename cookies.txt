@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.firstautoservice.ro	TRUE	/	FALSE	1999999999	__cfduid	dd89b81833b62674d9ad2fa001c13ba981486647172
-

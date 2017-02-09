@@ -1,8 +1,0 @@
-http://www.firstautoservice.ro -O . +www.firstautoservice.ro/*.jpg +www.firstautoservice.ro/*.png +firstautoservice.ro/*.png +firstautoservice.ro/*.jpg -N %p/%n/index%[page].%t -WqQ%v —robots=0
-File generated automatically on Thu, 09 Feb 2017 15:31:51, do NOT edit
-
-To update a mirror, just launch httrack without any parameters
-The existing cache will be used (and modified)
-To have other options, retype all parameters and launch HTTrack
-To continue an interrupted mirror, just launch httrack without any parameters
-
