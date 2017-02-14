@@ -1,2 +1,6 @@
 DirectoryIndex index.html
 Options -Indexes
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^firstautoservice.ro [NC]
+RewriteRule ^(.*)$ http://www.firstautoservice.ro/$1 [L,R=301]
